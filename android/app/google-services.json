@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "290546566968",
+    "project_id": "fir-sandbox-273dd",
+    "storage_bucket": "fir-sandbox-273dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290546566968:android:ab9cc8ea7b9e1fda31e3cd",
+        "android_client_info": {
+          "package_name": "com.example.firbase_sandbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290546566968-0d95frtkb8mt4neiuvj247aef8tgdhd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-N4BjtLyaJwJUmAsU1x2jcs13eLZgVGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290546566968-0d95frtkb8mt4neiuvj247aef8tgdhd9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "290546566968-khrb592fdp2jid4kderhpvsrr9f9ug93.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firbaseSandbox"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290546566968:android:7abf7a17d742d60531e3cd",
+        "android_client_info": {
+          "package_name": "com.example.firebase_sandbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290546566968-0d95frtkb8mt4neiuvj247aef8tgdhd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-N4BjtLyaJwJUmAsU1x2jcs13eLZgVGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290546566968-0d95frtkb8mt4neiuvj247aef8tgdhd9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "290546566968-khrb592fdp2jid4kderhpvsrr9f9ug93.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firbaseSandbox"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
